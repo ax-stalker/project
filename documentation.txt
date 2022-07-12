@@ -1,0 +1,43 @@
+
+it is is either going to be a portfolio , a larche website, travel website or a tracker.
+
+MUST HAVES:
+1. a functional login page.
+2. all links must be functioning.
+3. colours must match
+4. a database to hold all the user information.
+5.must be responsive
+6. support both guest and sign up options
+
+1. HARM REDUCTION WEBSITE
+crafts section
+story section
+bakery
+donation stk push
+youtube section
+announcement section
+relevant social links
+ensure that content is easily added
+icons clearly visible
+enable guest login and also sign-up
+two factor authentication
+join us
+
+
+2.TRAVEL WEBSITE 
+geolocation
+google maps api
+eta
+photos of landmarks
+3d models of animals
+booking section
+testimonials
+
+3.SPECIFIC MUST HAVES(portfolio)
+display of proficient programming languages.
+3d model
+contact form ie linkedln, number, email.
+complete projects
+
+
+

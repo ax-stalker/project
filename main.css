@@ -1,0 +1,24 @@
+
+/*define the main navigation block*/
+#navbar{
+    display:block;
+    height: 50px;
+    line-height: 50px;
+    background-color:c;
+}
+/*remove bullets padding and margin*/
+#navbar ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+#navbar li{
+    float:left;
+    /*or you can display using inline;*/
+}
+/* block styling for links*/
+#navbar li a{
+    display: inline-block;
+    text-align: center;
+    padding: 14px 16px
+}

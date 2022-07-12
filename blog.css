@@ -1,0 +1,70 @@
+body{
+    background:linear-gradient(to right,#3b5284, #5baba0);
+    align-items: center;
+}
+/*.card .woman{
+
+    width:auto;
+    top:.5rem;
+    left:.5rem;
+    height: 300px;;
+}*/
+.card{
+    width:100%;
+    height:300px;
+    padding:10px;
+    border-radius: 5px;
+    overflow: hidden;
+    text-align: center;
+    font-family: cursive;
+    font-size:30px ;
+    
+    background:rgba(255, 255,255,.7);
+    /*background: linear-gradient(to right,#605399,#ada1e6);*/
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    border:1px solid rgba(255, 255,255,.125);
+
+}
+.card-title{
+    margin-top:0;
+    margin-bottom: .5rem;
+    font-size: 1.2rem;
+}
+p {
+    font-size: 1rem;
+
+}
+
+#success{
+    display:-webkit-flex;
+    display: -moz-flex;
+    display: -ms-flex;
+    display:-o-flex;
+    display:flex;
+    flex-flow: row wrap;
+    padding: 50px;
+    color: #f16;
+
+}
+.story{
+    width:30%;
+    height:300px;
+    padding: 20px;
+    border-radius: 5px;
+    overflow: hidden;
+    margin:15px;
+    background:rgba(255, 255,255,.7);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    border:1px solid rgba(255, 255,255,.125);
+}
+@media screen and (max-width:600px){
+    .story{
+        width:75%;
+    }
+    .card{
+        width:100%;
+        height:400px;
+    }
+}
